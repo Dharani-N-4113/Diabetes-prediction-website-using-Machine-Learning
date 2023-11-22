@@ -1,0 +1,9 @@
+/* Static folder CSS for result display */
+h1 {
+    font-family: 'Arimo', sans-serif;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 20px;
+    color: #333; /* Change the color as needed */
+  }
+  
